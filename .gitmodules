@@ -1,0 +1,6 @@
+[submodule "scripts/genomic_scripts"]
+	path = scripts/genomic_scripts
+	url = https://github.com/alevar/genomic_scripts.git
+[submodule "soft/borf"]
+	path = soft/borf
+	url = https://github.com/alevar/borf.git
